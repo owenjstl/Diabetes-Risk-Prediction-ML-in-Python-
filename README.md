@@ -1,2 +1,3 @@
-# Machine-Learning-in-Python
+# Diabetes Risk Prediction()
+
 Previous project about machine learning
